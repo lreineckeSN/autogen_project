@@ -44,8 +44,8 @@ config_list = [
         "model": "gpt-4o-mini",
         "api_type": "azure",
         "api_version": "2024-06-01",
-        "api_key": "5f67a71d9a554c38b0409972514838fd",
-        "base_url": "https://sn-openaisrv001.openai.azure.com/"
+        "api_key": "api_key",
+        "base_url": "base_url"
     }
 ]
 
